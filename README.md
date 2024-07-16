@@ -60,8 +60,6 @@
 </div> 
 <div> <a href="https://github.com/ritu-25" target="_blank">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2></a></div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&theme=react-dark"/>
-
 
 
 

@@ -44,6 +44,7 @@
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/ritu-25)
 
 
+</br>
 
 # 💻 Technical Skills: 
 #### Languages & Frameworks

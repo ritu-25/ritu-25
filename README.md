@@ -92,12 +92,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-## 📈 GitHub Stats
-![Total contributions](https://github-readme-streak-stats.herokuapp.com/?user=ritu-25)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&theme=vision-friendly-dark)
 
-## 📈 Quine Stats
-<a href="https://quine.sh/profile/ritu-25"><img src="https://stats.quine.sh/ritu-25/github" alt="Ritu Saini's GitHub stats" width="340px"></a>
+
+
 
 
 

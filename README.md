@@ -5,13 +5,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ritu Saini </h1>
+<p align="center">
+</p>
+
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
 </div>
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ritu Saini </h1>
-<p align="center">
-</p>
+</br>
+
 <h3 align="center">🚩 Artificial Intelligence & Data Science Student 🚩
 <!-- <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 

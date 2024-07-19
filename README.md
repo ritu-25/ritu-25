@@ -1,6 +1,10 @@
 
 # Hey! Nice to see you.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Ritu Saini </h1>
 <p align="center">
 </p>

@@ -107,6 +107,13 @@
 
 
 
+<h3 align="center">My Contribution Graph</h3>
+<div align="center">
+  <a href="https://github.com/ritu-25">
+    <img src="https://ghchart.rshah.org/39D353/ritu-25" alt="Ritu's Github Contributions" />
+  </a>
+</div>
+<br/>
 
 <div> <a href="https://github.com/ritu-25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>

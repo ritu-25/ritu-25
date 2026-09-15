@@ -84,42 +84,56 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" />
+![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Anaconda](https://img.shields.io/badge/anaconda-%23000000.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 </p>
 
 <br/>
 
 ## 📈 GitHub Activity & Contributions
 
+
+
+<div> <a href="https://github.com/ritu-25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://ghchart.rshah.org/40c463/ritu-25" alt="Ritu's Github Contributions" />
-</div>
+<a href="https://github.com/ritu-25">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritu-25&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritu-25&theme=2077" height="180em" />
+</div> 
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritu-25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritu-25&theme=tokyonight&hide_border=false" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="60%" />
-</div>
-
-<br/>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+![](https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 <br/>
 
-## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ritu-saini-790708226/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+![](https://github-readme-stats.vercel.app/api?username=ritu-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritu-25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## **CONNECT WITH ME**:
+<p align="left">
+<a href = "https://www.linkedin.com/in/ritu-saini-790708226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
+
   <a href="https://github.com/ritu-25">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>

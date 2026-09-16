@@ -186,13 +186,13 @@
 
 
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ritu-25">
-    <img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Ritu's GitHub Trophies" />
-  </a>
-</div>
 
+## 🏆 Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-20+-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Projects-Shipped-39d353?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-Active-26a641?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 <br/>
 

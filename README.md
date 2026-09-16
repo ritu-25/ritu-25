@@ -104,6 +104,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI-CD-150458?style=for-the-badge&logo=cicd&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -119,6 +120,7 @@
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CICD-412991?style=for-the-badge&logo=cicd&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -146,16 +148,6 @@
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-<details>
-<summary><b>☁️ Cloud services I've worked with (click to expand)</b></summary>
-
-| Provider | Services |
-|---|---|
-| **AWS** | EC2 • ECR • RDS • EBS • IAM • S3 • CodePipeline • SageMaker |
-| **Google Cloud** | Vertex AI • Cloud Run • Cloud Storage • Cloud APIs |
-| **DevOps** | Docker • Docker Compose • GitHub Actions • CI/CD • Linux • Env management |
-
-</details>
 
 ### 🔧 Tools &amp; Technologies
 
@@ -177,32 +169,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ===================================================================== -->
-<!--                          HOW I BUILD AI                               -->
-<!-- ===================================================================== -->
 
 ## 🧠 How I Build AI Systems
-
-```text
-                    ┌────────────────────────┐
-                    │          User          │
-                    └───────────┬────────────┘
-                                ▼
-                    ┌────────────────────────┐
-                    │     AI Application     │
-                    └───────────┬────────────┘
-                 ┌──────────────┼──────────────┐
-                 ▼              ▼              ▼
-               LLMs            RAG         AI Agents
-                 │              │              │
-                 ▼              ▼              ▼
-            Prompting      Embeddings    Tool Calling
-                 │              │              │
-                 │         Vector DB           │
-                 └──────────────┼──────────────┘
-                                ▼
-                         Final Response
-```
 
 <details>
 <summary><b>🔎 RAG &amp; retrieval techniques I use</b></summary>
@@ -213,46 +181,9 @@ Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybri
 
 </details>
 
-<details>
-<summary><b>🕸️ Agentic AI workflow</b></summary>
-
-```text
-User Query → Reason / Plan → Select Tool → Execute Tool
-     → Retrieve Data → Evaluate Result → Generate Response
-```
-
-ReAct • Tool Calling • Function Calling • MCP • Agent Memory • Multi-Agent Systems • LangGraph Workflows
-
-</details>
-
-<details>
-<summary><b>🔗 Model Context Protocol (MCP)</b></summary>
-
-```text
-LLM  →  MCP Client  →  MCP Server  →  ├── Databases
-                                      ├── APIs
-                                      ├── Search
-                                      ├── Files
-                                      └── External Tools
-```
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ===================================================================== -->
-<!--                          FEATURED PROJECTS                            -->
-<!-- ===================================================================== -->
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| 🥗 **FitSystem AI** | Fitness &amp; nutrition assistant with food recognition, calorie estimation and a nutrition RAG chatbot | Python • FastAPI • LLM • RAG • ChromaDB • BM25 • OpenCV • Redis |
-| 🏥 **Healthcare AI Assistant** | Voice-enabled hospital receptionist — booking, rescheduling, doctor &amp; hospital info | FastAPI • LLM • RAG • Voice AI (STT/TTS) • LangChain • Redis |
-| 🔮 **NakshatraAI** | Vedic astrology assistant built on PDF/OCR knowledge extraction + RAG | Python • OCR • RAG • LLM • AWS |
-| 👁️ **Face Recognition System** | Computer-vision based authentication and identity verification | Python • OpenCV • Deep Learning |
-| 💬 **Multi-LLM Chat Assistant** | Multi-model chat with long-term memory, document Q&amp;A and image understanding | FastAPI • LangChain • ChromaDB • Docker • React |
 
 <div align="center">
   <a href="https://github.com/ritu-25?tab=repositories">

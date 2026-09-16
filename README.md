@@ -107,6 +107,14 @@
 
 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+<br/> 
 
 <div> <a href="https://github.com/ritu-25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
@@ -125,6 +133,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+
 <br/>
 
 
@@ -136,13 +145,5 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/ritu-saini-790708226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<!-- <h3 align="center">🐍 My Contribution Graph</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-<br/> -->
+
 

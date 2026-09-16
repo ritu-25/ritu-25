@@ -80,6 +80,7 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-0A9396?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI-CD-412991?style=for-the-badge&logo=cicd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-8E2DE2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/RAG-1E88E5?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -101,10 +102,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI-CD-FF6F00?style=for-the-badge&logo=cicd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI-CD-150458?style=for-the-badge&logo=cicd&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,7 +121,6 @@
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-   <img src="https://img.shields.io/badge/CICD-412991?style=for-the-badge&logo=cicd&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -149,6 +149,7 @@
 </p>
 
 
+
 ### 🔧 Tools &amp; Technologies
 
 <p align="center">
@@ -169,8 +170,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
+<!-- ===================================================================== -->
+<!--                          HOW I BUILD AI                               -->
+<!-- ===================================================================== -->
 
 ## 🧠 How I Build AI Systems
+
 
 <details>
 <summary><b>🔎 RAG &amp; retrieval techniques I use</b></summary>
@@ -179,10 +184,15 @@
 
 Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybrid Search • Reciprocal Rank Fusion • Reranking • Metadata Filtering • Context Compression
 
-</details>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ===================================================================== -->
+<!--                          FEATURED PROJECTS                            -->
+<!-- ===================================================================== -->
+
 
 
 <div align="center">
@@ -201,19 +211,19 @@ Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybri
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritu-25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&theme=tokyonight" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritu-25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400&v=2" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400&v=2" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ritu-25&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ritu-25&theme=tokyonight&hide_border=true&v=2" alt="streak"/>
 
 </div>
 
 ### 📈 Contribution Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=006d32&hide_border=true&v=2" alt="activity graph"/>
 </div>
 
 ### 🗂️ Profile Summary Cards
@@ -238,21 +248,19 @@ Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybri
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" width="100%"/>
 
 </div>
 
-> ℹ️ The snake animation is generated from your **real** contribution graph by the GitHub Action in `.github/workflows/snake.yml` (included alongside this README). Run the workflow once and the images appear automatically.
+> ℹ️ Dark background + GitHub's own green squares, generated from your **real** contribution graph by `.github/workflows/snake.yml`. Run that workflow once and this image appears automatically.
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="github trophies"/>
+<a href="https://github.com/ritu-25">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&v=2" alt="github trophies"/>
+</a>
 
 </div>
 

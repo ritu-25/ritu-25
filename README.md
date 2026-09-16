@@ -1,732 +1,392 @@
-<!-- ========================================================= -->
-
-<!--                    PROFILE HEADER                         -->
-
-<!-- ========================================================= -->
+<!-- ===================================================================== -->
+<!--                        PROFILE HEADER / BANNER                       -->
+<!-- ===================================================================== -->
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257466-2e9f8c1f-6f9e-4c1e-9c4f-8f8f7d0d7f7e.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" alt="banner"/>
 
-# 👋 Hi, I'm **Ritu Saini**
+<h1>
+  Hi <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" alt="wave"/>, I'm <a href="https://github.com/ritu-25">Ritu Saini</a>
+</h1>
 
-### 🤖 AI & Data Science Engineer | GenAI Developer | Python Developer
+<h3>🚩 Artificial Intelligence &amp; Data Science Engineer • GenAI Developer • Python Developer 🚩</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Data+Science;Generative+AI+%7C+LLMs+%7C+RAG;Agentic+AI+%7C+MCP+%7C+AI+Agents;Python+%7C+FastAPI+%7C+Django;Machine+Learning+%7C+Deep+Learning;Building+Real-World+AI+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Generative+AI+%7C+LLMs+%7C+RAG+%7C+Vector+Search;Agentic+AI+%7C+AI+Agents+%7C+MCP+%7C+Tool+Calling;Computer+Vision+%7C+VLM+%7C+OpenCV;Python+%7C+Django+%7C+Flask+%7C+FastAPI;AWS+%7C+GCP+%7C+Docker+%7C+Redis;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="typing svg"/>
 
-<br>
-
-<a href="https://github.com/ritu-25">
-<img src="https://img.shields.io/github/followers/ritu-25?label=Followers&style=for-the-badge&logo=github">
-</a>
+<br/><br/>
 
 <a href="https://github.com/ritu-25">
-<img src="https://img.shields.io/github/stars/ritu-25?label=Stars&style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-ritu--25-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/ritu-saini-790708226/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ritu%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<a href="https://github.com/ritu-25?tab=followers">
+  <img src="https://img.shields.io/github/followers/ritu-25?label=Followers&style=for-the-badge&logo=github&color=6C63FF" alt="followers"/>
+</a>
+<a href="https://github.com/ritu-25?tab=repositories">
+  <img src="https://img.shields.io/github/stars/ritu-25?label=Stars&style=for-the-badge&logo=github&color=FFB000" alt="stars"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=ritu-25&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-# 🧑‍💻 About Me
+<!-- ===================================================================== -->
+<!--                              ABOUT ME                                 -->
+<!-- ===================================================================== -->
 
-I'm **Ritu Saini**, a **B.Tech Artificial Intelligence & Data Science graduate** passionate about building practical AI-powered applications.
+## 🧑‍💻 About Me
 
-I enjoy working across the complete AI development lifecycle — from **data preprocessing and machine learning** to **LLMs, RAG systems, AI agents, computer vision, APIs and deployment**.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="coding gif"/>
 
-### 🔭 Currently Working With
+- 🔭 &nbsp;Pursuing **B.Tech in Computer Science — AI &amp; Data Science** at **Poornima Institute of Engineering &amp; Technology, Jaipur, Rajasthan**
+- 🤖 &nbsp;Building with **LLMs, Generative AI, RAG systems, AI Agents and Computer Vision**
+- 🧠 &nbsp;Core strengths in **Python, ML/DL, NLP, Prompt &amp; Feature Engineering**
+- 🌐 &nbsp;Full-stack side: **Django, Flask, FastAPI, REST APIs, Bootstrap**
+- 🗄️ &nbsp;Data side: **MySQL, PostgreSQL, ChromaDB, Redis, Pandas, Power BI**
+- ☁️ &nbsp;Cloud &amp; DevOps: **AWS (EC2, ECR, RDS, EBS, IAM, S3, SageMaker, CodePipeline), GCP, Docker, CI/CD**
+- 📚 &nbsp;Trained &amp; upskilled with **Dataplay, Celebal Technologies and Regex Software Services**
+- 🎯 &nbsp;Goal: **build intelligent software that connects AI, data and real-world users**
+- 💬 &nbsp;Ask me about **RAG pipelines, AI agents, MCP, vector search or anything Python**
 
-* 🤖 Generative AI & LLM Applications
-* 🧠 Machine Learning & Deep Learning
-* 🔎 RAG & Hybrid Search Systems
-* 🕸️ Agentic AI & AI Agents
-* 🔗 MCP — Model Context Protocol
-* 👁️ Computer Vision & VLMs
-* 🐍 Python Backend Development
-* ⚡ FastAPI & Django
-* ☁️ Cloud & AI Deployment
-* 📊 Data Analytics & Power BI
+<br clear="right"/>
 
-### 💡 What I Like Building
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-```text
-AI Chatbots
-AI Agents
-RAG Applications
-Healthcare AI
-Fitness AI
-Computer Vision Systems
-LLM Applications
-Voice AI Assistants
-Recommendation Systems
-Data Analytics Dashboards
-Automation Systems
-```
+<!-- ===================================================================== -->
+<!--                            TECH STACK                                 -->
+<!-- ===================================================================== -->
 
----
+## 🛠️ Tech Stack
 
-# 🛠️ Technical Skills
+### 💻 Programming Languages
 
-## 🐍 Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,sql" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" alt="languages"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Python • C++ • Java • JavaScript • TypeScript • SQL**
+### 🤖 Machine Learning, AI &amp; Generative AI
 
----
-
-# 🤖 Artificial Intelligence & Machine Learning
-
-### 🧠 AI / ML
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* Computer Vision
-* Generative AI
-* Large Language Models
-* Vision Language Models
-* Feature Engineering
-* Prompt Engineering
-* Model Evaluation
-* Classification
-* Regression
-* Clustering
-* Recommendation Systems
-
-### 🔥 Generative AI
-
-* LLM Applications
-* Prompt Engineering
-* RAG
-* Agentic RAG
-* Hybrid RAG
-* Graph RAG
-* Double RAG
-* AI Agents
-* Tool Calling
-* Function Calling
-* Structured Outputs
-* Embeddings
-* Semantic Search
-* Vector Search
-* Context Management
-* LLM Memory
-* Multi-Agent Workflows
-
----
-
-# 🧠 LLM & AI Engineering Stack
-
-```text
-LLMs
-├── OpenAI
-├── Google Gemini
-├── Claude
-├── Groq
-└── LiteLLM
-
-RAG
-├── Document Processing
-├── Chunking
-├── Embeddings
-├── Vector Search
-├── BM25
-├── Hybrid Search
-├── Reranking
-└── Context Retrieval
-
-AI Agents
-├── Tool Calling
-├── Function Calling
-├── Agentic Workflows
-├── ReAct
-├── MCP
-├── Multi-Agent Systems
-└── Memory
-
-Vision AI
-├── Computer Vision
-├── Image Classification
-├── Object Detection
-├── Face Recognition
-├── OCR
-└── Vision Language Models
-```
-
----
-
-# 🧩 Frameworks & Libraries
-
-### AI / ML
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0A9396?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8E2DE2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/RAG-1E88E5?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-6A1B9A?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLM-00897B?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4081?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-2E7D32?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-* TensorFlow
-* PyTorch
-* Scikit-Learn
-* Pandas
-* NumPy
-* Matplotlib
-* OpenCV
-* Seaborn
+> **AI concepts I work with:**
+> LLM • GenAI • RAG • Agentic RAG • Hybrid Search • AI Agents • Prompt Engineering • Tool &amp; Function Calling • MCP • Embeddings • Vector Search • Semantic Search • Reranking • LLM Memory • NLP • Computer Vision • VLM • Conversational AI • Speech-to-Text / Text-to-Speech • AI Pipelines
 
-### GenAI / LLM
+### 🧩 Frameworks &amp; Libraries
 
-* LangChain
-* LangGraph
-* MCP
-* LiteLLM
-* ChromaDB
-* Sentence Transformers
-* BM25
-* RAG Pipelines
-* AI Agent Frameworks
-
----
-
-# ⚡ Backend & Web Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,react,html,css,bootstrap" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,tensorflow,pytorch,opencv,bootstrap&theme=dark" alt="frameworks"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### Backend
+### 🔗 LLM &amp; AI Engineering Stack
 
-* FastAPI
-* Django
-* Flask
-* Django REST Framework
-* Node.js
-* REST APIs
-* WebSockets
-* Authentication & Authorization
-* JWT
-* API Integration
-* Microservice Architecture
-
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* Tailwind CSS
-
----
-
-# 🗄️ Databases & Data Engineering
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6D00?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-FF9E0F?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BM25%20%2F%20Hybrid%20Search-006064?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </p>
 
-### Databases
+### 🗄️ Databases, Vector DBs &amp; Cloud
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* SQLite
-* Redis
-
-### Vector Databases
-
-* ChromaDB
-* Vector Search
-* Embeddings
-* Semantic Search
-
-### Data Processing
-
-* Pandas
-* NumPy
-* SQL
-* ETL
-* Data Cleaning
-* Data Transformation
-* Feature Engineering
-
----
-
-# ☁️ Cloud & DevOps
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux,git" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp&theme=dark" alt="db and cloud"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
-### Cloud
+<details>
+<summary><b>☁️ Cloud services I've worked with (click to expand)</b></summary>
 
-* Amazon Web Services
-* Google Cloud Platform
-* AWS EC2
-* AWS S3
-* AWS RDS
-* AWS ECR
-* AWS EBS
-* AWS IAM
-* AWS SageMaker
-* Google Cloud Services
-* Vertex AI
+| Provider | Services |
+|---|---|
+| **AWS** | EC2 • ECR • RDS • EBS • IAM • S3 • CodePipeline • SageMaker |
+| **Google Cloud** | Vertex AI • Cloud Run • Cloud Storage • Cloud APIs |
+| **DevOps** | Docker • Docker Compose • GitHub Actions • CI/CD • Linux • Env management |
 
-### DevOps
+</details>
 
-* Docker
-* Docker Compose
-* GitHub Actions
-* CI/CD
-* Git
-* GitHub
-* Linux
-* Cloud Deployment
+### 🔧 Tools &amp; Technologies
 
----
-
-# 🔧 Tools & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm,linux,anaconda" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,pycharm,linux,anaconda,githubactions&theme=dark" alt="tools"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20Admin-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-4A148C?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-* Git
-* GitHub
-* Git Bash
-* GitHub Actions
-* Docker
-* Docker Compose
-* Postman
-* VS Code
-* PyCharm
-* Jupyter Notebook
-* Anaconda
-* Linux
-* Windows Terminal
-* Redis
-* Power BI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
----
+<!-- ===================================================================== -->
+<!--                          HOW I BUILD AI                               -->
+<!-- ===================================================================== -->
 
-# 📊 Data Analytics & BI
-
-### 📈 Analytics
-
-* Power BI
-* Excel
-* DAX
-* Power Query
-* Data Visualization
-* Dashboard Development
-* Data Cleaning
-* Data Analysis
-* Business Intelligence
-
-### 📊 Visualization
-
-* Matplotlib
-* Seaborn
-* Power BI
-* Excel Dashboards
-
----
-
-# 🚀 Featured AI Projects
-
-## 🤖 FitSystem AI
-
-AI-powered fitness and nutrition assistant using:
+## 🧠 How I Build AI Systems
 
 ```text
-Python
-FastAPI
-LLM
-RAG
-ChromaDB
-BM25
-Hybrid Search
-OpenAI
-Google Gemini
-Computer Vision
-Redis
-LangChain
-MCP
-```
-
-### Features
-
-* 🍎 Food recognition
-* 🔥 Calorie estimation
-* 🥗 Nutrition analysis
-* 💪 Fitness recommendations
-* 🧠 RAG-based nutrition knowledge
-* 💬 AI conversational assistant
-* 🧠 Chat memory
-* 🔎 Hybrid vector + keyword search
-* 🤖 AI tools using MCP
-
----
-
-## 🏥 Healthcare AI Assistant
-
-AI-powered healthcare receptionist and hospital assistant.
-
-### Technologies
-
-```text
-Python
-FastAPI
-LLM
-RAG
-ChromaDB
-Gemini
-Deepgram
-ElevenLabs
-Voice AI
-Redis
-LangChain
-AI Agents
-```
-
-### Features
-
-* 🗣️ Voice conversations
-* 📅 Appointment booking
-* ❌ Appointment cancellation
-* 🔄 Rescheduling
-* 👨‍⚕️ Doctor information
-* 🏥 Hospital information
-* 🔎 Medical knowledge retrieval
-* 🧠 Conversational memory
-* 🎙️ Speech-to-Text
-* 🔊 Text-to-Speech
-
----
-
-## 🔮 NakshatraAI
-
-AI-powered Vedic Astrology assistant.
-
-### Technologies
-
-```text
-Python
-TensorFlow
-LLM
-RAG
-AWS
-Mobile Integration
-AI Chatbot
-```
-
----
-
-## 👁️ Face Recognition System
-
-Computer Vision based authentication system using:
-
-```text
-Python
-OpenCV
-Deep Learning
-Computer Vision
-Face Recognition
-Web Authentication
-```
-
----
-
-## 💬 AI Chat Assistant
-
-Multi-model AI assistant supporting:
-
-* OpenAI
-* Claude
-* Gemini
-* LiteLLM
-* RAG
-* PDF/DOCX Knowledge Base
-* Long-Term Memory
-* Image Analysis
-* Image Generation
-* Streaming Responses
-* English
-* Hindi
-* Hinglish
-
-### Tech Stack
-
-```text
-FastAPI
-Python
-LangChain
-ChromaDB
-SQLAlchemy
-React
-Tailwind CSS
-Docker
-LLMs
-RAG
-```
-
----
-
-# 🧠 AI Architecture Knowledge
-
-```text
-                    ┌──────────────────────┐
-                    │       User           │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │    AI Application    │
-                    └──────────┬───────────┘
-                               │
-                ┌──────────────┼──────────────┐
-                ▼              ▼              ▼
-             LLMs            RAG          AI Agents
-                │              │              │
-                ▼              ▼              ▼
-          Prompting       Embeddings      Tool Calling
-                │              │              │
-                │              ▼              │
-                │         Vector DB           │
-                │              │              │
-                └──────────────┼──────────────┘
-                               ▼
+                    ┌────────────────────────┐
+                    │          User          │
+                    └───────────┬────────────┘
+                                ▼
+                    ┌────────────────────────┐
+                    │     AI Application     │
+                    └───────────┬────────────┘
+                 ┌──────────────┼──────────────┐
+                 ▼              ▼              ▼
+               LLMs            RAG         AI Agents
+                 │              │              │
+                 ▼              ▼              ▼
+            Prompting      Embeddings    Tool Calling
+                 │              │              │
+                 │         Vector DB           │
+                 └──────────────┼──────────────┘
+                                ▼
                          Final Response
 ```
 
----
+<details>
+<summary><b>🔎 RAG &amp; retrieval techniques I use</b></summary>
 
-# 🔎 RAG Technologies
+`Traditional RAG` → `Agentic RAG` → `Hybrid RAG` → `Graph RAG` → `Multi-Agent RAG`
 
-```text
-Traditional RAG
-      ↓
-Agentic RAG
-      ↓
-Hybrid RAG
-      ↓
-Graph RAG
-      ↓
-Multi-Agent RAG
-      ↓
-Double RAG
-```
+Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybrid Search • Reciprocal Rank Fusion • Reranking • Metadata Filtering • Context Compression
 
-### Retrieval Technologies
+</details>
 
-* Semantic Search
-* Vector Search
-* BM25
-* Hybrid Search
-* Reciprocal Rank Fusion
-* Embeddings
-* Reranking
-* Metadata Filtering
-* Context Retrieval
-
----
-
-# 🕸️ Agentic AI
-
-I'm exploring and building systems using:
+<details>
+<summary><b>🕸️ Agentic AI workflow</b></summary>
 
 ```text
-AI Agent
-   ↓
-Understand User Query
-   ↓
-Reason / Plan
-   ↓
-Select Tool
-   ↓
-Execute Tool
-   ↓
-Retrieve Data
-   ↓
-Evaluate Result
-   ↓
-Generate Response
+User Query → Reason / Plan → Select Tool → Execute Tool
+     → Retrieve Data → Evaluate Result → Generate Response
 ```
 
-### Agent Technologies
+ReAct • Tool Calling • Function Calling • MCP • Agent Memory • Multi-Agent Systems • LangGraph Workflows
 
-* ReAct
-* Tool Calling
-* Function Calling
-* MCP
-* Agent Memory
-* Multi-Agent Systems
-* Workflow Automation
-* LangGraph
-* Agentic RAG
+</details>
 
----
-
-# 🔗 Model Context Protocol — MCP
-
-Working with **MCP-based AI applications** to connect LLMs with external tools, APIs, databases and services.
+<details>
+<summary><b>🔗 Model Context Protocol (MCP)</b></summary>
 
 ```text
-LLM
- │
- ▼
-MCP Client
- │
- ▼
-MCP Server
- │
- ├── Database
- ├── API
- ├── Search
- ├── Files
- ├── Tools
- └── External Services
+LLM  →  MCP Client  →  MCP Server  →  ├── Databases
+                                      ├── APIs
+                                      ├── Search
+                                      ├── Files
+                                      └── External Tools
 ```
 
----
+</details>
 
-# 📚 Currently Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-```text
-🚀 Advanced Agentic AI
-🧠 LLM Engineering
-🔎 Advanced RAG
-🕸️ Multi-Agent Systems
-🔗 MCP
-👁️ Vision Language Models
-🎙️ Voice AI
-☁️ AI Cloud Deployment
-🐳 Docker & CI/CD
-⚡ Production AI Systems
-```
+<!-- ===================================================================== -->
+<!--                          FEATURED PROJECTS                            -->
+<!-- ===================================================================== -->
 
----
+## 🚀 Featured Projects
 
-# 🏆 GitHub Profile Trophies
+| Project | What it does | Tech |
+|---|---|---|
+| 🥗 **FitSystem AI** | Fitness &amp; nutrition assistant with food recognition, calorie estimation and a nutrition RAG chatbot | Python • FastAPI • LLM • RAG • ChromaDB • BM25 • OpenCV • Redis |
+| 🏥 **Healthcare AI Assistant** | Voice-enabled hospital receptionist — booking, rescheduling, doctor &amp; hospital info | FastAPI • LLM • RAG • Voice AI (STT/TTS) • LangChain • Redis |
+| 🔮 **NakshatraAI** | Vedic astrology assistant built on PDF/OCR knowledge extraction + RAG | Python • OCR • RAG • LLM • AWS |
+| 👁️ **Face Recognition System** | Computer-vision based authentication and identity verification | Python • OpenCV • Deep Learning |
+| 💬 **Multi-LLM Chat Assistant** | Multi-model chat with long-term memory, document Q&amp;A and image understanding | FastAPI • LangChain • ChromaDB • Docker • React |
 
-<p align="center">
+<div align="center">
+  <a href="https://github.com/ritu-25?tab=repositories">
+    <img src="https://img.shields.io/badge/📂%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Profile Trophies" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-</p>
+<!-- ===================================================================== -->
+<!--                          GITHUB STATISTICS                            -->
+<!-- ===================================================================== -->
 
-> 🏆 Trophies are dynamically generated from GitHub activity using GitHub Profile Trophy.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritu-25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ritu-25&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&theme=tokyo-night&hide_border=true" width="95%" />
-
-</p>
-
----
-
-# 🎯 My Development Philosophy
-
-```text
-Learn → Build → Test → Improve → Deploy → Repeat
-```
-
-I believe in learning by building **real-world projects** and continuously improving my skills through practical implementation.
-
----
-
-# 💼 What I Can Build
-
-| Area                | Technologies               |
-| ------------------- | -------------------------- |
-| 🤖 AI Applications  | Python, LLMs, GenAI        |
-| 🧠 Machine Learning | Scikit-Learn, TensorFlow   |
-| 🔎 RAG Systems      | LangChain, ChromaDB        |
-| 🕸️ AI Agents       | LangGraph, MCP             |
-| 👁️ Computer Vision | OpenCV, TensorFlow         |
-| 🎙️ Voice AI        | STT, TTS, LLM              |
-| ⚡ Backend           | FastAPI, Django, Flask     |
-| 🌐 Web Apps         | React, JavaScript          |
-| 🗄️ Databases       | MySQL, PostgreSQL, MongoDB |
-| ☁️ Cloud            | AWS, GCP                   |
-| 🐳 DevOps           | Docker, GitHub Actions     |
-| 📊 Analytics        | Power BI, Excel            |
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ritu-25">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
----
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 💻 Building AI. Learning Every Day. 🚀
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritu-25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&theme=tokyonight" alt="top languages"/>
 
-<img src="https://komarev.com/ghpvc/?username=ritu-25&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ritu-25&theme=tokyonight&hide_border=true" alt="streak"/>
+
+</div>
+
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+</div>
+
+### 🗂️ Profile Summary Cards
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritu-25&theme=2077" alt="profile details"/>
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritu-25&theme=2077" alt="summary stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritu-25&theme=2077" alt="most commit language"/>
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritu-25&theme=2077" alt="repos per language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritu-25&theme=midnight_purple&utcOffset=5.5" alt="productive time"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> ℹ️ The snake animation is generated from your **real** contribution graph by the GitHub Action in `.github/workflows/snake.yml` (included alongside this README). Run the workflow once and the images appear automatically.
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="github trophies"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ===================================================================== -->
+<!--                        LEARNING & PHILOSOPHY                          -->
+<!-- ===================================================================== -->
+
+## 🌱 Currently Learning &amp; Exploring
+
+<table>
+<tr>
+<td>
+
+- 🚀 Advanced &amp; Agentic RAG architectures
+- 🕸️ Multi-agent systems and orchestration
+- 🔗 MCP servers and tool ecosystems
+- 📏 LLM evaluation &amp; observability
+
+</td>
+<td>
+
+- 👁️ Vision-Language Models
+- 🎙️ Voice AI assistants
+- ⚙️ MLOps &amp; production AI deployment
+- ☁️ Cloud-native AI with Docker + CI/CD
+
+</td>
+</tr>
+</table>
+
+## 💡 Development Philosophy
+
+```text
+Learn → Build → Experiment → Break → Debug → Improve → Deploy → Repeat 🚀
+```
+
+> *"I don't just learn technologies — I build with them."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ===================================================================== -->
+<!--                              CONNECT                                  -->
+<!-- ===================================================================== -->
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ritu-saini-790708226/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+<a href="https://github.com/ritu-25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+**AI • Data • Software • Innovation**
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="0" height="0" alt=""/>
 
 </div>

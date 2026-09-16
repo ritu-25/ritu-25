@@ -170,162 +170,43 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ===================================================================== -->
-<!--                          HOW I BUILD AI                               -->
-<!-- ===================================================================== -->
-
-## 🧠 How I Build AI Systems
-
-
-<details>
-<summary><b>🔎 RAG &amp; retrieval techniques I use</b></summary>
-
-`Traditional RAG` → `Agentic RAG` → `Hybrid RAG` → `Graph RAG` → `Multi-Agent RAG`
-
-Chunking • Embeddings • Semantic Search • Vector Search • BM25 • Hybrid Search • Reciprocal Rank Fusion • Reranking • Metadata Filtering • Context Compression
 
 
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================================================================== -->
-<!--                          FEATURED PROJECTS                            -->
-<!-- ===================================================================== -->
-
-
-
+<div> <a href="https://github.com/ritu-25" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  <a href="https://github.com/ritu-25?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
+<a href="https://github.com/ritu-25">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritu-25&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritu-25&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritu-25&theme=2077" height="180em" />
+</div> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-<!-- ===================================================================== -->
-<!--                          GITHUB STATISTICS                            -->
-<!-- ===================================================================== -->
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritu-25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400&v=2" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&layout=compact&include_all_commits=true&count_private=true&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400&v=2" alt="top languages"/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ritu-25&theme=tokyonight&hide_border=true&v=2" alt="streak"/>
-
-</div>
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritu-25&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=006d32&hide_border=true&v=2" alt="activity graph"/>
-</div>
-
-### 🗂️ Profile Summary Cards
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritu-25&theme=2077" alt="profile details"/>
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ritu-25&theme=2077" alt="summary stats"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritu-25&theme=2077" alt="most commit language"/>
 
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=ritu-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritu-25&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritu-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritu-25&theme=2077" alt="repos per language"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritu-25&theme=midnight_purple&utcOffset=5.5" alt="productive time"/>
+## **CONNECT WITH ME**:
+<p align="left">
+<a href = "https://www.linkedin.com/in/ritu-saini-790708226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-</div>
 
-### 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/ritu-25/ritu-25/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" width="100%"/>
 
-</div>
 
-> ℹ️ Dark background + GitHub's own green squares, generated from your **real** contribution graph by `.github/workflows/snake.yml`. Run that workflow once and this image appears automatically.
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-
-<a href="https://github.com/ritu-25">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&v=2" alt="github trophies"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================================================================== -->
-<!--                        LEARNING & PHILOSOPHY                          -->
-<!-- ===================================================================== -->
-
-## 🌱 Currently Learning &amp; Exploring
-
-<table>
-<tr>
-<td>
-
-- 🚀 Advanced &amp; Agentic RAG architectures
-- 🕸️ Multi-agent systems and orchestration
-- 🔗 MCP servers and tool ecosystems
-- 📏 LLM evaluation &amp; observability
-
-</td>
-<td>
-
-- 👁️ Vision-Language Models
-- 🎙️ Voice AI assistants
-- ⚙️ MLOps &amp; production AI deployment
-- ☁️ Cloud-native AI with Docker + CI/CD
-
-</td>
-</tr>
-</table>
-
-## 💡 Development Philosophy
-
-```text
-Learn → Build → Experiment → Break → Debug → Improve → Deploy → Repeat 🚀
-```
-
-> *"I don't just learn technologies — I build with them."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ===================================================================== -->
-<!--                              CONNECT                                  -->
-<!-- ===================================================================== -->
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ritu-saini-790708226/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://github.com/ritu-25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-</a>
-
-<br/><br/>
-
-### ⭐ Thanks for visiting my profile!
-**AI • Data • Software • Innovation**
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="0" height="0" alt=""/>
-
-</div>

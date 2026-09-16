@@ -187,9 +187,11 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
+<div align="center">
+  <a href="https://github.com/ritu-25">
+    <img src="https://github-profile-trophy.vercel.app/?username=ritu-25&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Ritu's GitHub Trophies" />
+  </a>
+</div>
 
 
 <br/>

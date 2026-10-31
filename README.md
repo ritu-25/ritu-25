@@ -42,7 +42,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="coding gif"/>
 
-- 🔭 &nbsp;Pursuing **B.Tech in Computer Science — AI &amp; Data Science** at **Poornima Institute of Engineering &amp; Technology, Jaipur, Rajasthan**
+- 🔭 &nbsp;Graduate from **B.Tech in Computer Science — AI &amp; Data Science** at **Poornima Institute of Engineering &amp; Technology, Jaipur, Rajasthan**
 - 🤖 &nbsp;Building with **LLMs, Generative AI, RAG systems, AI Agents and Computer Vision**
 - 🧠 &nbsp;Core strengths in **Python, ML/DL, NLP, Prompt &amp; Feature Engineering**
 - 🌐 &nbsp;Full-stack side: **Django, Flask, FastAPI, REST APIs, Bootstrap**
